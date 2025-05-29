@@ -10,7 +10,7 @@ This project was created as part of an **Artificial Intelligence course assignme
 
 The game runs in the terminal, allowing a human player to play against the AI.
 
----
+
 
 ##  Features
 
@@ -20,7 +20,7 @@ The game runs in the terminal, allowing a human player to play against the AI.
 - Clean, user-friendly board display with position hints
 - Input validation for human moves
 
----
+
 
 ##  How to Run
 
