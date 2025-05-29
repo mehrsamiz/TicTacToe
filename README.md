@@ -2,7 +2,7 @@
 
 This repository contains a terminal-based **Tic-Tac-Toe game** with an **optimal AI agent** implemented using the **Minimax algorithm**. The AI never loses — it always plays perfectly.
 
----
+
 
 ##  Description
 
